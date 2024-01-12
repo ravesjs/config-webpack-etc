@@ -1,24 +1,19 @@
 {
-  "name": "webpack-boilerplate",
-  "version": "3.0.2",
-  "description": "Sensible webpack 5 boilerplate using Babel and PostCSS.",
+  "name": "webpack-scss-postcss",
+  "version": "1.0.0",
+  "description": "SCSS, Babel and PostCSS.",
   "main": "index.js",
-  "author": "Tania Rascia",
-  "license": "MIT",
+  "author": "ravesjs",
+  "license": "ISC",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack serve --config config/webpack.dev.js",
     "build": "cross-env NODE_ENV=production webpack --config config/webpack.prod.js",
     "lint": "eslint 'src/**/*.js' || true",
     "prettify": "prettier --write 'src/**/*.js'"
   },
-  "keywords": [
-    "webpack",
-    "webpack 5",
-    "webpack boilerplate"
-  ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:taniarascia/webpack-boilerplate"
+    "url": "git@github.com:ravesjs/webpack-scss-postcss" 
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",
