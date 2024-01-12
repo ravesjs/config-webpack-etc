@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ravesjs/webpack-scss-postcss" 
+    "url": "git@github.com:ravesjs/webpack-scss-postcss"
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",
