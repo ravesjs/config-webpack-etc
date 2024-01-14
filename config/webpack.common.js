@@ -47,7 +47,7 @@ module.exports = {
   module: {
     rules: [
       // JavaScript: Use Babel to transpile JavaScript files
-      { test: /\.(js|jsx)$/, use: ['babel-loader'] },
+      { test: /\.(js|jsx|ts|tsx)$/, use: ['babel-loader'] },
 
       // Images: Copy image files to build folder
       { test: /\.(?:ico|gif|png|jpg|jpeg)$/i, type: 'asset/resource' },
