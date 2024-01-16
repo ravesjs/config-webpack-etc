@@ -1,7 +1,7 @@
 {
-  "name": "webpack-scss-postcss",
+  "name": "config-webpack-etc",
   "version": "1.0.0",
-  "description": "SCSS, Babel and PostCSS.",
+  "description": "configuration",
   "main": "index.jsx",
   "author": "ravesjs",
   "license": "ISC",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ravesjs/webpack-scss-postcss"
+    "url": "git@github.com:ravesjs/config-webpack-etc"
   },
   "devDependencies": {
     "@babel/core": "7.23.7",
