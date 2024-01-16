@@ -1,4 +1,4 @@
-## 📦 Webpack, postcss, scss, babel, eslint, prettier configuration
+## 📦 Webpack, css-modules, scss, postcss, babel, eslint, prettier configuration, React ready, need to add tsconfig.
 
 ## Instruction
 
