@@ -1,4 +1,5 @@
-## 📦 Webpack, css-modules, scss, postcss, babel, eslint, prettier configuration, React ready, need to add tsconfig.
+## 📦 Webpack, css-modules, scss, postcss, babel, eslint, prettier configuration, React ready template.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Instruction
 
@@ -7,7 +8,7 @@
     git clone https://github.com/ravesjs/config-webpack-etc
     ```
      
-2.  Delete old repo
+2.  Delete old link (of this repo)
     ```bash
     git remote remove origin  
     ```
@@ -24,10 +25,10 @@
     git commit -m 'smth'
     ```
     
- 4. Create new repo on github  
+ 4. Create a new repo on github for yourself  
     
     ```bash
-    git remote add origin <URL-нового-репозитория>  
+    git remote add origin <URL-of-your-repository>  
     ```
  5. Push changes   
     ```bash
@@ -36,6 +37,7 @@
     
     ## Installation
     
+    Install package.json devDependencies  
     ```bash
     npm install
     ```
@@ -45,3 +47,9 @@
     ```bash
     npm run build
     ```
+
+- props to [Tania Rascia](https://github.com/taniarascia), I updated [this](https://github.com/taniarascia/webpack-boilerplate) config for React and scss.modules
+
+  ## License
+
+  This project is open source and available under the [MIT License](LICENSE).
