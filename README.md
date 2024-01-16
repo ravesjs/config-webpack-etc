@@ -53,7 +53,7 @@
     npm run build
     ```
 
-- props to [Tania Rascia](https://github.com/taniarascia), I updated [this](https://github.com/taniarascia/webpack-boilerplate) config for React and scss.modules
+- props to [Tania Rascia](https://github.com/taniarascia), I've updated [this](https://github.com/taniarascia/webpack-boilerplate) config for React and scss.modules
 
   ## License
 
