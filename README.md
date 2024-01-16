@@ -1,4 +1,4 @@
-## 📦 Webpack, css-modules, scss, postcss, babel, eslint, prettier configuration, React ready template.
+# 📦 Webpack, css-modules, scss, postcss, babel, eslint, prettier configuration, React ready template.
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Instruction
@@ -41,8 +41,13 @@
     ```bash
     npm install
     ```
+
+    ### Development server
+    ```bash
+    npm start
+    ```
     
-    # Production
+    ### Production
     
     ```bash
     npm run build
