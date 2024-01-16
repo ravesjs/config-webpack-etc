@@ -6,8 +6,8 @@ const now = new Date()
 function Header() {
   return (
     <header className={styles.header}>
-      <img src={logo} alt={'Studying'} />
-      <span>Время сейчас: {now.toLocaleTimeString()}</span>
+      <img src={logo} alt={'logo'} />
+      <span>Time: {now.toLocaleTimeString()}</span>
     </header>
   )
 }
