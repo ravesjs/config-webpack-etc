@@ -1,4 +1,4 @@
-# 📦 Webpack, css-modules, scss, postcss, babel, eslint, prettier configuration, React ready template.
+# 📦 Webpack, scss-modules, postcss, babel, eslint, prettier configuration, React-ready template.
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Instruction
