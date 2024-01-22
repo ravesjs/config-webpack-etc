@@ -9,5 +9,8 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
-    automerge:
-      enabled: true
+    open-pull-requests-limit: 5
+    commit-message-override:
+      format: "chore(deps): update {{#UPDATES}}"
+    labels:
+      - "dependencies"
