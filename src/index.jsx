@@ -8,4 +8,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 )
-// Remove <React.StrictMode></React.StrictMode> at prod and just leave <App /> inside render
+// Remove "React.StrictMode" at prod and just leave "App" inside render
